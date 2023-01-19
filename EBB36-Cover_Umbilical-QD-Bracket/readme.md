@@ -4,7 +4,7 @@
 
 - For the umbilical you can get the CNLINKO QD off of Amazon or Aliexpress. You may be able to use the screw in one, or you might be able to just use a regular M12 cable gland. Ill leave that up to you to figure out how you want to do it. 
 
-** BOM for EBB36 Cover 
+** BOM for EBB36 Cover **
 This assumes your utilizing the 3mmx24mm Brass extensions that came with the EBB36
 | Item | Qty |
 | :------------: |----:| 
@@ -13,7 +13,7 @@ This assumes your utilizing the 3mmx24mm Brass extensions that came with the EBB
 | M3x12mm SHCS | 1 |
 | 6mmx10mmx3mm Brass Standoff | 2 |
 
-** BOM for Umbilical Bracket
+** BOM for Umbilical Bracket **
 | Item | Qty |
 | :------------: |----:| 
 | M3x6mm FHCS | 1 |
