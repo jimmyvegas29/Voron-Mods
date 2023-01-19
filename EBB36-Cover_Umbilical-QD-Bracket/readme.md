@@ -1,2 +1,2 @@
 
-![Voron_Stealthburner](Images/Printed-Right.JPG)
+![Printed Image Right Side](Images/Printed-Right.jpg)
