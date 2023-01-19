@@ -1,6 +1,6 @@
 # EBB36 Cover for Voron Stealthburner/Quick Disconnect bracket for Canbus Umbilical #
 
-This is a cover for the BTT EBB36 v1.2, im not sure if it will work for the v1.1. 
+This is a cover for the BTT EBB36 v1.2, im not sure if it will work for the v1.1. You need to utilize the regular cover for the Stealthburner not the PCB version. 
 
 For the umbilical you can get the CNLINKO QD off of Amazon or Aliexpress. You may be able to use the screw in one, or you might be able to just use a regular M12 cable gland. Ill leave that up to you to figure out how you want to do it. 
 
