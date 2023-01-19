@@ -13,7 +13,7 @@ This assumes your utilizing the 3mmx24mm Brass extensions that came with the EBB
 | M3x12mm SHCS | 1 |
 | 6mmx10mmx3mm Brass Standoff | 2 |
 
-# BOM for Umbilical Bracket #
+## BOM for Umbilical Bracket ##
 | Item | Qty |
 | :------------: |----:| 
 | M3x6mm FHCS | 1 |
